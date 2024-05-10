@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+PowerBI+and+Frontend+Developer;Second+line+of+text)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Lakshmi Kosre</h1>
 <h3 align="center">A passionate Power BI and Frontend developer from India</h3>
 <img align="right" alt="Coder" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
