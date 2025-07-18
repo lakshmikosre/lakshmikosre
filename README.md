@@ -10,11 +10,8 @@
 
 - 🌱 I’m currently learning **Java Development and some Frontend frameworks**
 
-- 💬 Ask me about **Data Analytics and Cloud**
-
 - 📫 How to reach me **laxmikosre05@gmail.com**
 
-- ⚡ Fun fact **I think I am part-time Michael Jackson**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
